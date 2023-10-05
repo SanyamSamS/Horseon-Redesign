@@ -15,3 +15,4 @@ The acceptance criteria was fulfilled by:
 All edits on the files were made using a GitHub repository with multiple steps that were commited independently with multiple descriptive commit messages.
 
 ## Link to deployed application
+https://sanyamsams.github.io/module-1-challenge/
