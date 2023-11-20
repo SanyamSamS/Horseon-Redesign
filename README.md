@@ -1,4 +1,4 @@
-# module-1-challenge
+# Horseon redesign
 Adding features to codebase so that it follows accessibilty standards.
 
 ## Tasks completed
